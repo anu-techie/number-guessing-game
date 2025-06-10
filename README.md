@@ -3,7 +3,7 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Stars](https://img.shields.io/github/stars/anu-techie/number-guessing-game?style=social)
+![Stars](https://img.shields.io/github/stars/anu-techie/number-guessing-game)
 
 >a simple number guessing game using Python.
 
@@ -12,7 +12,7 @@
 ## Requirement
 
 - Python 3.x  
-- No external dependencies — uses only built-in Python modules (`random`, `time`,)
+- No external dependencies — uses only built-in Python modules (`random`, `time`)
 
 ---
 
