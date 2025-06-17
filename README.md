@@ -50,11 +50,11 @@
    ```
    If Python is not installed, download it from python.org.
 
-4. **Run the Task Tracker CLI**
+4. **Run the Number Guess CLI**
     ```bash
-    python number_guess.py
+    python cli.py
     ```
-    To see available commands
+
 
 ---
 
@@ -78,4 +78,4 @@ You can view the full license [here](https://creativecommons.org/licenses/by-nc/
 
 ---
 
-🙋‍♀️ Author : Anusuyadevi |   Learning Python building cool projects ❤️
+🙋‍♀️ Author : Anusuyadevi |   Learning backend, building cool projects ❤️
